@@ -1,0 +1,82 @@
+2023-07-11 20:55:00 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 20:55:00 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 20:55:00 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 20:55:00 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.565 seconds (process running for 190.32)
+2023-07-11 20:58:10 [http-nio-8080-exec-2] DEBUG c.s.l.controller.DemoController -
+				Request of SL4J Ranju 
+2023-07-11 20:58:10 [http-nio-8080-exec-2] DEBUG c.s.l.controller.DemoController -
+				Request of Log4J {} Ranju
+2023-07-11 20:58:10 [http-nio-8080-exec-2] DEBUG c.s.l.controller.DemoController -
+				Response Hello Ranju
+2023-07-11 20:59:35 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 20:59:35 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 20:59:35 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 20:59:35 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.496 seconds (process running for 465.264)
+2023-07-11 20:59:37 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 20:59:37 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 20:59:37 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 20:59:37 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.452 seconds (process running for 467.195)
+2023-07-11 20:59:42 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 20:59:42 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 20:59:42 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 20:59:42 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.483 seconds (process running for 472.235)
+2023-07-11 20:59:54 [http-nio-8080-exec-1] DEBUG c.s.l.controller.DemoController -
+				Request of SL4J test 
+2023-07-11 20:59:54 [http-nio-8080-exec-1] DEBUG c.s.l.controller.DemoController -
+				Request of Log4J {} test
+2023-07-11 21:00:39 [http-nio-8080-exec-4] DEBUG c.s.l.controller.DemoController -
+				Request of SL4J test 
+2023-07-11 21:00:39 [http-nio-8080-exec-4] DEBUG c.s.l.controller.DemoController -
+				Request of Log4J {} test
+2023-07-11 21:08:05 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 21:08:05 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 21:08:05 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 21:08:06 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.484 seconds (process running for 975.816)
+2023-07-11 21:08:11 [http-nio-8080-exec-1] DEBUG c.s.l.controller.DemoController -
+				Request of SL4J test 
+2023-07-11 21:08:11 [http-nio-8080-exec-1] DEBUG c.s.l.controller.DemoController -
+				Request of Log4J {} test
+2023-07-11 21:12:18 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 21:12:18 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 21:12:18 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 21:12:19 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.496 seconds (process running for 1228.526)
+2023-07-11 21:12:22 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 21:12:22 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 21:12:22 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 21:12:23 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.392 seconds (process running for 1232.449)
+2023-07-11 21:14:17 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Starting Demo1SpringBootLoggingApplication using Java 17.0.2 with PID 29396 (C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging\target\classes started by Ranju in C:\Ranju\Notes\Spring\Spring Boot\Spring Boot - Logging\Repository\Demo1_SpringBoot_Logging)
+2023-07-11 21:14:17 [restartedMain] DEBUG c.s.l.Demo1SpringBootLoggingApplication -
+				Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-11 21:14:17 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-07-11 21:14:18 [restartedMain] INFO  c.s.l.Demo1SpringBootLoggingApplication -
+				Started Demo1SpringBootLoggingApplication in 0.527 seconds (process running for 1347.567)
